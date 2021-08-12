@@ -1,0 +1,3 @@
+Esta script te ayudara a descargar un gran numero de herramientas de hacking,
+recuerda que no me hago responsable del uso de las herramientas.
+Saludos...
